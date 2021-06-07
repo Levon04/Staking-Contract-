@@ -1,0 +1,83 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\User\\YOP\\contracts\\HopAndYop.sol": {
+      "lastModificationDate": 1614765976102,
+      "contentHash": "7db0b2b0aeabc059841e111705172fbb",
+      "sourceName": "contracts/HopAndYop.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0",
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "HopOnYop",
+        "IERC20"
+      ]
+    },
+    "C:\\Users\\User\\YOP\\contracts\\YOP.sol": {
+      "lastModificationDate": 1614758742723,
+      "contentHash": "acbe0dbeff231013d1cee67a3b9b2524",
+      "sourceName": "contracts/YOP.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.0",
+        "^0.7.0",
+        "^0.7.0",
+        "^0.7.0",
+        "^0.7.0"
+      ],
+      "artifacts": [
+        "Context",
+        "IERC20",
+        "Ownable",
+        "SafeMath",
+        "YOP"
+      ]
+    }
+  }
+}
